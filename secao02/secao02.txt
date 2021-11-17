@@ -1,0 +1,24 @@
+Seção 02: Preparando o Ambiente
+
+3. O que vamos aprender nesta seção?
+
+4. O ciclo de vida da linguagem Java.
+
+Java Lifecycle.
+
+https://www.oracle.com/java/technologies/java-se-support-roadmap.html
+
+LTS - LONG-TERM SUPPORT.
+
+Versões não LTS são versões Feature.
+
+5. Instalação e configuração no Windows
+
+6. Instalação e configuração no Linux
+
+7. Instalação e configuração no Mac
+
+8. Recapitulando
+
+
+
