@@ -1,0 +1,38 @@
+Seção 7: Vetores e Matrizes em Java
+
+31. O que vamos aprender nesta seção?
+
+32. Vetores - Parte 1
+
+int vetor[3];
+
+Arrays ou vetores unidimesionais.
+
+33. Vetores - Parte 2
+
+Atalho: ctrl + /, comentar várias linhas.
+
+
+34. Matrizes - Parte 1
+
+
+int matriz[3][3]; //3 linhas e 3 colunas
+
+numeros[0][0]=1;
+numeros[0][1]=2;
+numeros[0][2]=5;
+numeros[1][0]=7;
+numeros[1][1]=4;
+numeros[1][2]=9;
+numeros[2][0]=3;
+numeros[2][1]=6;
+numeros[2][2]=32;
+
+
+
+35. Matrizes - Parte 2
+
+36. Recapitulando
+
+
+
