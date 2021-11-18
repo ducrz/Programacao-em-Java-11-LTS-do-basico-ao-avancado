@@ -1,0 +1,14 @@
+Seção 05: Estruturas de Repetição em Java
+
+20. O que vamos aprender nesta seção?
+
+21. While e do while
+
+22. For e Foreach
+
+Atalho: for + ctrl+spacebar
+
+23. Recapitulando
+
+
+
