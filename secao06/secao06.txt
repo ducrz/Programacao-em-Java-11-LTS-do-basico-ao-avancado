@@ -1,0 +1,27 @@
+Seção 06: Tipos de Dados em Java
+
+
+24. O que vamos aprender nesta seção?
+
+25. Tipos numéricos - Parte 1
+
+26. Tipos numéricos - Parte 2
+
+Tabela ASCII
+
+https://www.ime.usp.br/~pf/algoritmos/apend/ascii.html
+
+27. Tipos alfanuméricos
+
+
+Caracteres e Strings
+
+28. Tipos booleanos
+
+
+29. Operações matemáticas
+
+
+30. Recapitulando
+
+
