@@ -1,0 +1,23 @@
+Seção 04: Estruturas de Decisão em Java
+
+
+15. O que vamos aprender nesta seção?
+
+16. If, else, if else
+
+17. Operador ternário
+
+Atalho: main ctrl+spacebar
+
+Atalho: sysout ctrl+spacebar
+
+
+18. A instrução Switch
+
+Atalho: swi ctrl+spacebar
+
+
+19. Recapitulando
+
+
+
