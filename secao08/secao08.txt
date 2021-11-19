@@ -1,0 +1,26 @@
+Seção 08: Funções em Java
+
+
+37. O que vamos aprender nesta seção?
+
+38. Criando nossas próprias funções
+
+Requisitos para declaração de funções:
+
+uma função deve ter o seguinte:
+a) Tipo de retorno (Tipo de dado que a função vai retornar);
+b) Nome - Corresponde a ação que a função realiza;
+c) Parâmetros/Argumentos de entrada (Opcional);
+d) Retorno (Opcional dependendo do tipo de retono).
+
+
+//void - vazio, função sem retono
+
+39. Usando nossas funções
+
+
+
+40. Recapitulando
+
+
+
