@@ -1,4 +1,4 @@
-package geek;
+package br.com.geekuniversity.secao06;
 
 public class Programa12 {
 	//Tipos de Dados

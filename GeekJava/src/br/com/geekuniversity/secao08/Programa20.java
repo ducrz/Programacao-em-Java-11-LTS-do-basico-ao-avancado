@@ -1,4 +1,4 @@
-package geek;
+package br.com.geekuniversity.secao08;
 
 import java.util.Scanner;
 //Funções

@@ -1,4 +1,4 @@
-package geek;
+package br.com.geekuniversity.secao06;
 
 public class Programa14 {
 	//Tipos Booleanos

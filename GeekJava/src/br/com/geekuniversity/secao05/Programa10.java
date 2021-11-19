@@ -1,4 +1,4 @@
-package geek;
+package br.com.geekuniversity.secao05;
 
 public class Programa10 {
 	
