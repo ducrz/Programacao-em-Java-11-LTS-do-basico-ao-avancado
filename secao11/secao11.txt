@@ -1,0 +1,55 @@
+Seção 11: Modificadores de Acesso
+
+52. O que vamos aprender nesta seção?
+
+53. O que é o encapsulamento?
+
+Encapsulamento vêm de encapsular, "cápsula", protegendo.
+
+Somente quem precisa e deve acessar precisa ter este privilégio.
+
+Getters and Setters
+
+
+Getter - É um método público que serve para consultar dados;
+	 A nomenclatura desses métodos é getNomeDoAtributo()
+
+
+
+54. Public
+
+Público.
+
+É um modificador de acesso que torna público determinado objeto.
+
+As classes são por padrão public.
+
+Os construtores precisam ser public.
+
+Sendo public, significa que em todo o projeto pode-se acessar os elementos públicos.
+
+
+
+55. Private
+
+Privado
+
+Torna o elemento privado à própria classe.
+
+Só dentro da própria classe é possível o acesso.
+
+
+56. Protected
+
+Protegido.
+
+
+Por padrão o modificador de acesso é Protected.
+
+O modificador de acesso Protected faz com que o elemento seja visível somente dentro do mesmo pacote
+onde o elemento foi declarado.
+
+57. Recapitulando
+
+
+
