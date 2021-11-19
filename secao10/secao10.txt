@@ -1,0 +1,26 @@
+Seção 10: Pacotes
+
+49. O que vamos aprender nesta seção?
+
+50. Organizando o código
+
+Pacotes na linguagem Java tem a finalidade de organizar o código.
+
+
+Pacotes indicam onde determinado arquivo do projeto está armazenado.
+
+Os nomes de pacotes devem ser em letras minúsculas, sem espaço, sem caracteres especiais e sem acentuação.
+
+Por convenção, é utilizados nos nomes de pacotes, o domínio da empresa criadora do projeto, ao contrário,
+sendo a última parte do nome o especificador do pacote;
+
+
+
+Pode-se utilizar padrões de Projeto.
+
+MVC - Model - View - Controller
+
+51. Recapitulando
+
+
+
