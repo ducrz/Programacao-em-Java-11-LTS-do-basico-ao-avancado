@@ -1,0 +1,78 @@
+Seção 09: Orientação a Objetos
+
+41. O que vamos aprender nesta seção?
+
+42. O que é Orientação a Objetos?
+
+43. Classes
+
+O nome das classes é iniciando em letra maiúscula.
+
+O nome não deve conter: Acentuação, caracteres especiais e espaço.
+
+Nas classes Java não existe a implementação do método main().
+
+O nome da classe Java deve ser o mesmo nome do arquivo Java.
+
+Toda classe Java possui a seguinte forma:
+
+public class NomeDaClasses{
+
+
+
+}
+
+Tudo que estiver dentro das "chaves" {} faz parte da classe.
+
+
+44. Atributos
+
+São as características da classe/molde/modelo de dados.
+
+Podemos entender atributos como variáveis da classe.
+
+Uma outra forma de nomenclatura para os atributos são estados;
+
+Atributos são nomeados em letras minúsculas, sem espaços, sem caracteres especiais,
+sem acentuação.
+
+
+45. Métodos
+
+Podemos entender os métodos como a ação que é realizada por um objeto da classe.
+
+Podemos entender também que os métodos são comportamentos dos objetos da classe.
+
+Mesmos requisitos de de funções:
+a) Tipo de retorno;
+b) Nome;
+c) Parâmetros (Opcional);
+d) Retorno (Opcional);
+
+46. Objetos
+
+Objetos são produtos/instâncias da classe;
+
+
+47. Construtor.
+
+Método especial que constroi a instância do objeto.
+
+O construtor de uma classe Sempre tem o mesmo nome da classe;
+
+Por padrão, a  JVM - Java Virtual Machine, cria em tempo de execução, durante a execução do programa,
+um construtor padrão, um construtor vazio;
+
+Podemos ter mais de um construtor na classe;
+
+Sempre um construtor vazio tem a seguinte forma:
+
+public NomeDaClasse(){
+
+}
+
+
+48. Recapitulando
+
+
+
