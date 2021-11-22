@@ -1,0 +1,45 @@
+Seção 12: Herança e Polimorfismo
+
+
+58. O que vamos aprender nesta seção?
+
+59. Herança
+
+Herança é um dos pilares da orientação do objeto, que sustentam este paradigma.
+
+Herança evita a repitição do código;
+Facilita a manutenção.
+
+Quando uma classe herda de outra classe ela ganha:
+todos os atributos e métodos da classe herdada.
+
+
+60. Polimorfismo
+
+Toda classe herda por padrão da classe Object.
+
+Poli- Muitas
+Morfismo - Formas
+
+Objetos do mesmo tipo, podem agir de formas diferentes.
+
+
+61. Sobrecarga de método
+
+Overloading 
+
+Ocorre quando, sobreescrevemos um método na mesma classe de declaração.
+
+
+
+62. Sobrescrita de método
+
+Overridding
+
+Ocorre quando sobrescrevermos métodos da classe pai (super classe) em classes filhas.
+
+
+
+63. Recapitulando
+
+
