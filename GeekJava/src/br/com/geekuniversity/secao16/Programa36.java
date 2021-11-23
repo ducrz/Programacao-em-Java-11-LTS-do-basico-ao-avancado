@@ -1,6 +1,5 @@
 package br.com.geekuniversity.secao16;
 
-import java.util.Iterator;
 
 //Tratando exceções com Try/Catch
 public class Programa36 {

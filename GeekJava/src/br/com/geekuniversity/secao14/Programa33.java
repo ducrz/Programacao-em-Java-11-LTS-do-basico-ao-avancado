@@ -3,6 +3,7 @@ package br.com.geekuniversity.secao14;
 //Interfaces
 public class Programa33 {
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 
 		Ventilador vent = new Ventilador();

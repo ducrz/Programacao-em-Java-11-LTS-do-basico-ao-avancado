@@ -3,6 +3,7 @@ package br.com.geekuniversity.secao07;
 public class Programa18 {
 	//Matrizes
 	//Vetores, Arrays ou Matrizes multidimensionais.
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		//Declarando Matriz

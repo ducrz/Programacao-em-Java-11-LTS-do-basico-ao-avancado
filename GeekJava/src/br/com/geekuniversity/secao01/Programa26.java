@@ -12,6 +12,10 @@ public class Programa26 {
 			//System.out.println("Endereço: "+cli.endereco);
 			
 			//cli.dizer_oi();
+			
+			cli.hashCode();
+			
+			System.out.println(cli.hashCode());
 
 	}
 

@@ -1,0 +1,45 @@
+Seção 17: Executáveis e Documentação.
+
+80. O que vamos aprender nesta seção?
+
+81. Gerando executáveis jar
+
+JAR- Java Archive
+
+Archive - Arquivo compactado Java.
+
+
+
+Eclipse > Projeto > Export > Java JAR File 
+
+Main Class > br.com.geekuniversity.secao17.Principal
+
+Para executar: java -jar nomedoarquivo.jar
+
+
+Corrigindo Warnings: usando variáveis, métodos não usados ou @SuppressWarnings("unused").
+
+82. Gerando documentação com Javadoc
+
+
+/**
+*Método para realizar depósito
+*
+*@param valor a ser depositado
+*/
+
+
+/**
+*Método getter do atributo Saldo
+*
+*@return a soma do saldo + limite
+*/
+
+
+Project > Generate Javadoc > /doc
+
+
+
+83. Recapitulando
+
+
