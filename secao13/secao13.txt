@@ -1,0 +1,57 @@
+Seção 13: Classes Abstratas
+
+64. O que vamos aprender nesta seção?
+
+65. O que é e quanto usar?
+
+Classes abstratas são um recurso que proporcionam um bloqueio na criação de objetos.
+
+Não é possível instanciar objetos de uma classe abstrata.
+
+
+Impossibilita a criação de objetos da classe abstrata.
+
+
+Uma classe abstrata pode ter:
+- Atributos;
+- Métodos;
+- Métodos abstratos;
+
+Métodos abstratos: São métodos que não possuem implementação, possuem apenas declaração,
+e obrigatoriamente, as classes que herdarem desta classe com método abstrato, precisa implementar
+estes métodos.
+
+66. Padrão de projeto: Template Method
+
+
+Template Method define o esqueleto de um algoritmo dentro de um método transferindo alguns de seus
+passos para as subclasses.
+O template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar a 
+estrutura do próprio algoritmo.
+
+Algoritmo são "receitas" passo a passo para resolver algum problema.
+
+Exemplo:
+
+receber numero;
+retornar numero * numero;
+
+
+metodo_principal(){
+
+	passo1();
+	passo2();
+	passo3();
+}
+
+
+
+Final é um modificador de acesso que faz com que o elemento que esteja utilizando não possa ser
+extendido ou reescrito.
+
+
+67. Recapitulando
+
+
+
+
