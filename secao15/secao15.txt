@@ -1,0 +1,25 @@
+Seção 15: Atributos e Métodos Estáticos.
+
+71. O que nós vamos aprender nesta seção?
+
+72. Atributos Estáticos
+
+São atributos onde valores são compartilhados entre as instâncias da classe.
+
+Para utilizar um atributo estático, é colocado o nome da classe junto ao atributo.
+
+Exemplo:
+NomeDaClasse.atributo
+
+73. Métodos Estáticos
+
+Um método estático não depende de uma instância da classe para ser utilizado.
+Pode-se utilizar conforme:
+
+NomeDaClasse.metodo();
+
+
+74. Recapitulando
+
+
+
