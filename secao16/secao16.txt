@@ -1,0 +1,31 @@
+Seção 16: Tratamento de Erros
+
+75. O que vamos aprender nesta seção?
+
+76. Tratando exceções com Try/Catch
+
+Try - Tente fazer isto
+Catch - Caso não consiga, pegue o erro.
+
+
+Utilizamos o try para tentar realizar algo, geralmente realizar aquilo que pode acarretar em um problema.
+
+O Catch é utilizado para capturar o erro e como isto oferecer ao usuário do sistema uma mensagem adequada
+sem que o sistema quebre.
+
+
+
+77. Utilizando o Finally
+
+Trabalha em conjunto com o Try/Catch.
+
+Após realizar a captura, pode ser realizada outra operação no Finally.
+
+
+
+78. Entendendo a execução
+
+79. Recapitulando
+
+
+
