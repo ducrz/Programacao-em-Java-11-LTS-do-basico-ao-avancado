@@ -1,0 +1,32 @@
+Seção 14: Interfaces
+
+
+68. O que vamos aprender nesta seção?
+
+69. O que é uma interface e quando usar?
+
+Interfaces são conhecidas como "contratos".
+
+Exemplo:
+Uma empresa criou um contrato "com regras" para definir a criação de um produto ou serviço.
+
+Quem implementar este contrato é obrigado a seguir as regras.
+
+Um funcionário decidiu implementar um produto ou serviço baseado neste contrato.
+Outra funcionário decidiu implementar um produto ou serviço baseado no mesmo contrato.
+
+Contrato para confecção de um bolo:
+	O bolo precisa ser de chocolate;
+	O bolo deve ter cobertura;
+	O bolo deve ser recheado;
+
+
+Uma interface pode conter:
+	Constantes (normalmente definidas em maiúsculo);
+	Métodos abstratos;
+	
+ 
+
+70. Recapitulando
+
+
