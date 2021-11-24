@@ -1,0 +1,84 @@
+Seção 19: Collections
+
+90. O que vamos aprender nesta seção?
+
+91. Listas
+
+Arrays (Vetores / Matrizes) - Problemas
+
+Array tem tamanho fixo. Ao criar um array com 5 elementos, ele terá sempre no máximo 5 elementos.
+Um array tem tipo de dado fixo, se for array de inteiro, só poderá armazenar inteiros.
+
+É difícil encontrar um determinado elemento em um array. Para isto é necessário percorrer todo o array
+através do seu índice, caso não seja feita uma busca direta pelo número do índice.
+
+
+
+
+Collections (Coleções)
+
+Java possui diversas classes/interfaces que facilitam muito o trabalho quando se trata de coleções de dados.
+Essas classes /interfaces são chamadas de Collections (Coleções).
+
+
+Listas
+
+
+		ArrayList nomes = new ArrayList();
+Aceitam repetição de valores.
+Possuem tamanho "dinâmico", depende da memória.
+
+É possível utilizar valores de qualquer tipo, desde que não tenha sido especificado um tipo na declaração da lista.
+
+
+
+
+
+92. Conjuntos
+
+Os conjuntos são implementados com a interface Set, e uma das classes que implementam
+esta interface é a HashSet.
+
+A maioria das coleções possuem os mesmos métodos já conhecidos e utilizados com as listas,
+mas o comportamento desses objetos é um pouco diferente.
+
+A perfomance também é melhor em conjuntos do que em listas.
+
+
+Conjuntos não aceitam repetição de valores.
+
+
+Características dos conjuntos:
+Não aceitam valores repetidos;
+A ordem de inserção não é respeitada (Realiza uma semi-ordenação)
+Não aceita ordenação.
+Não possui índice.
+
+93. HashMap
+
+A classe HashMap implementa a interface Map e trabalha com o conceito de chave/valor.
+
+Não aceita chaves duplicadas, mas valores sim.
+
+
+94. Mapas
+Os mapas são representados em Java pela interface Map e mapeia seus elementos utilizando conceito de chave/valor.
+
+Mapas são conhecidos como se fossem/representassem 3 coleções:
+Coleção de chaves;
+Coleção de valores;
+Coleção de associações;
+
+		//Coleção de chaves
+		System.out.println(pessoas.keySet());
+		
+		//Coleção de valores
+		System.out.println(pessoas.values());
+		
+		//Coleção de Associações
+		System.out.println(pessoas.entrySet());
+
+
+95. Recapitulando
+
+

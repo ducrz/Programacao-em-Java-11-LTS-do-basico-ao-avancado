@@ -4,8 +4,8 @@ public class Programa25 {
 
 	public static void main(String[] args) {
 
-		Cliente joao = new Cliente("João Silva", "Rua X, Nº 0");
-		Cliente maria = new Cliente("Maria Silva", "Rua X, Nº 0");
+		Cliente joao = new Cliente(21, "João Silva", "Rua X, Nº 0");
+		Cliente maria = new Cliente(22, "Maria Silva", "Rua X, Nº 0");
 		
 		Conta conta_joao = new Conta(1, 100.0f, 200.0f, joao);
 		Conta conta_maria = new Conta(2, 300.0f, 600.0f, maria);
