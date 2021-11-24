@@ -4,10 +4,31 @@ Seção 18: Conhecendo a Java Lang
 
 85. Object: A mãe de todas as classes
 
+Object: A "mãe" de todas as classes
+
+Toda classe Java por padrão herda da classe Object.
+
+A classe Object, faz parte do pacote java.lang.
+
 86. Realizando cálculos com Math
+
+Math - Realização de cálculos
+
+A Biblioteca Math possui vários métodos e constantes estáticas para que seja possível sua utilização.
 
 87. Trabalhando com Strings
 
+Em Java Strings são imutáveis, ou seja, não mudam.
+
+Uma String em Java nada mais é do que um Array de Caracteres.
+
+
 88. Leitura e Escrita em arquivos
 
+PrintStream escrever = new printStream("saida.txt");
+
+
 89. Recapitulando
+
+
+
