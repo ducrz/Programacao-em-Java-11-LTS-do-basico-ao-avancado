@@ -1,0 +1,38 @@
+Seção 20: Threads em Java
+
+96. O que vamos aprender nesta seção?
+
+97. Execução em paralelo
+
+
+98. Criando e trabalhando com threads
+
+implements Runnable
+
+
+@Override
+	public void run() {	}
+
+		Thread t1 = new Thread(barra);
+		t1.start();
+
+99. Synchronized
+
+Por padrão as Threads não são sincronizadas, podendo ocorrer problemas de uma Thread acessar o valor de um objeto que ainda não foi atualizado ou ainda as Threads executarem depois do valor já estar "impresso".
+
+
+		t1.join(); //Deve juntar-se a um sincronizador
+		t2.join(); //Deve juntar-se a um sincronizador
+
+		synchronized(this) {
+			
+		}
+		
+		
+O sincronismo ocorre pois durante a execução do método, a Thread executa um 'lock' (bloqueio) da função para que outra Thread só possa
+executá-la após a finalização da Thread inicial.
+
+100. Recapitulando
+
+
+
