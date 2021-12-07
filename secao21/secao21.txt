@@ -1,0 +1,75 @@
+Seção 21: Estrutura de Dados em Java
+
+101. O que vamos aprender nesta seção?
+
+102. Armazenamento Sequencial
+
+int numeros[] = new int[5];
+
+numeros[0] = 1;
+numeros[1] = 3;
+numeros[2] = 5;
+numeros[3] = 7;
+numeros[4] = 9;
+
+
+103. Listas Ligadas
+
+Linked List
+
+Vetor- Em um vetor os elementos estão um do lado do outro
+
+Lista Ligada - Os elementos podem estar em lugares diferentes, porém um "aponta" para o outro, indicando o próximo elemento.
+
+
+104. Listas Duplamente Ligadas
+
+
+
+105. Pilhas
+
+São estruturas de dados onde o elemento que está visível/disponível é o que está sempre no topo.
+
+Os elementos, ao ser feita a adição destes em uma pilha, são adicionados sempre no topo.
+
+Para remover elementos da pilha, só podemos remover o elemento do topo.
+
+[4] -> Tem visibilidade
+[3]
+[2]
+[1]
+[0]
+
+Em uma pilha, os elementos são sempre inserido no tipo.
+
+Implementação do Java:
+
+Stack<String> nomes = new Stack<String>();
+nomes.push("Angelina"); //Inserir
+String r1= nomes.pop(); //Remover
+
+
+String ret = nomes.peek(); //Retorna o elemento do topo
+
+
+106. Filas
+
+Todo elemento entra no final da fila.
+
+O primeiro elemento a entrar é também o primeiro a sair.
+
+Implementação do Java:
+
+Queue<String> fila = new LinkedList<String>();
+
+String ret = fila.poll(); //Remover
+
+
+107. Conjuntos
+
+Uma das características dos conjuntos é a não aceitação de elementos repetidos.
+
+108. Recapitulando
+
+
+
