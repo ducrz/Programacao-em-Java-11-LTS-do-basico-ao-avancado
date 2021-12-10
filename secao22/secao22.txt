@@ -1,0 +1,69 @@
+Seção 22: Recursos Avançados.
+
+109. O que vamos aprender nesta seção?
+
+110. Default methods
+
+Novidade implementada a partir do Java 8.
+
+São métodos concretos implementados em interfaces. Estes métodos, como são concretos, ou seja, já
+possuem implementação, não precisam ser implementados nas classes que implementam esta interface.
+
+
+111. Classes Anônimas
+
+Classes Anônimas são classes sem nome.
+
+Quando utilizar?
+
+São utilizadas classes anônimas quando temos interfaces com um ou pouco métodos e não
+é preciso reaproveitar o código da classe.
+
+Se não for necessário reaproveitar a classe em um outro lugar do sistema e esta classe
+criada irá apenas implmentar uma interface com um ou poucos métodos, é possível utilizar o conceito de
+classe anônima.
+
+112. Lambdas
+
+Lambdas ou Expressões Lambdas, são funções anônimas.
+
+É possível utilizar expresões lambdas com interfaces funcionais.
+
+Deve-se criar uma função lambda compatível com a função da interface que será utilizada.
+
+Exemplo:
+
+A interface consumer possui um método que recebe uma String e não retorna nada, a expressão lambda no caso
+não precisa retornar nada.
+
+
+A função sort, espera receber dois parâmetros do tipo String como entrada e retorna um inteiro.
+Por isto é possível passar a expressão lambda informando as duas Strings, s1 e s2 e, utilizando
+a classe Integer.compare que retorna um inteiro.
+
+
+Dica identação código: CTRL + Shift +F 
+
+113. Method references
+
+Pode ser considerados simplificações das expressões lambdas.
+
+
+
+114. Streams
+
+Streams são fluxos de dados/objetos utilizados para que seja possível trabalhar com trabalhar com estes dados
+de forma mais criteriosa.
+
+Usando Streams, os métodos aplicados a este stream, não afetam a coleção original.
+
+
+
+115. Datas
+
+
+
+116. Recapitulando
+
+
+
