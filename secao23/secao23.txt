@@ -1,0 +1,15 @@
+Seção 23: Encerramento.
+
+117. Recapitulando todo o curso.
+
+118. Quais os próximos passos?
+
+Biblioteca JavaFX - Para criação de aplicações Desktop.
+
+Spring Boot - Aplicações Web.
+
+
+119. Bônus
+
+
+
