@@ -1,0 +1,22 @@
+Seção 24: Aulas Extras.
+
+120. O que vamos aprender nesta seção?
+
+121. Criando uma aplicação desktop
+
+JavaDesktop
+
+122. Criando um instalador para seu programa no Windows
+
+
+Export > Java Runnable JAR File
+
+Usando Launch4j
+
+http://launch4j.sourceforge.net
+https://sourceforge.net/projects/launch4j/files/launch4j-3/3.14/
+
+123. Debugando seu programa
+
+
+
