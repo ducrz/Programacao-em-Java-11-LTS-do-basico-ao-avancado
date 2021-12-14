@@ -1,0 +1,32 @@
+Seção 25: Projeto Java 1 - Game
+
+124. O que vamos aprender nesta seção?
+
+Desenvolver uma aplicação onde ao ser inicializada, solicite ao usuário escolher o nível de dificuldade
+do jogo e após isto gera e apresenta de forma aleatória, um cálculo para que seja informado o resultado.
+
+Serão limitadas as operações de somar, diminuir e multiplicar.
+
+Se o usuário acertar a resposta, somará um ponto ao seu score.
+Acertando ou errando, ele poderá ou não continuar o jogo.
+
+
+125. Criando o projeto
+
+Folder Game
+
+126. Criando o model
+Folder Model
+
+
+127. Testando o model criado
+
+
+128. Criando o programa principal
+
+
+129. Executando nosso programa
+
+130. Recapitulando
+
+
