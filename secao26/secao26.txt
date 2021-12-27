@@ -1,0 +1,36 @@
+Seção 26: Projeto Java 2 - Mercado
+
+131. O que vamos aprender nesta seção?
+
+Desenvolver aplicação onde ao ser inicializada apresente ao usuário um menu onde seja possível cadastrar, listar e comprar produtos, além de visualizar
+carrinho de compra ou sair da aplicação.
+
+Ao adicionar um produto no carrinho de compras, deve-se verificar se já existe um mesmo produto no carrinho,
+neste caso alterando somente a quantidade.
+
+Ao finalizar a compra deve ser apresentado ao usuário o total de acordo com os produtos e quantidades inseridas no carrinho de compras.
+
+
+
+132. Criando o projeto
+
+Mercado
+
+133. Criando um utilitário para nosso projeto
+
+
+134. Criando o model
+
+
+135. Testando o model criado
+
+
+136. Criando o programa principal
+
+
+137. Executando nosso programa
+
+
+138. Recapitulando
+
+
